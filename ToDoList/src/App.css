@@ -1,0 +1,12 @@
+.App {
+    background: white;
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 1rem;
+    color: #333;
+}
